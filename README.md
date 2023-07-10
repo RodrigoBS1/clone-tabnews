@@ -1,2 +1,2 @@
 # clone-tabnews
-Repo created for Dev Course (https://curso.dev/)https://curso.dev/
+Repo created for Dev Course www.curso.dev
